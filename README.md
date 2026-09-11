@@ -206,15 +206,6 @@ This repository is ideal for:
 
 ---
 
-## 👋 Contact
-
-For queries or collaborations, feel free to reach out:
-
-- **Abizer** – abizer.masavi@gmail.com 
-- **Arzaan** – arzaanm2005@gmail.com
-
----
-
 🎥 **Power BI Reference Source**  
 Our Power BI dashboard development was greatly guided by the following tutorial:  
 [📺 Power BI Dashboard Tutorial for Beginners – by Learn with Whiteboard](https://youtu.be/if_ES7hC9Bc?si=ju2LM9YpdTG9zb7M)
