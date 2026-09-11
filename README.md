@@ -1,12 +1,6 @@
 # 🍽️ Zomato Data Analytics – SQL & Power BI Based Business Intelligence Platform
 
-> **Semester Project – B.Tech CSE (DBMS Course)**  
-> **Academic Year: 2024–2025**  
-> **Team Members:**  
-> - E034 – Abizer Masavi  
-> - E039 – Arzaan Mulla 
 
----
 
 ## 📘 Project Description
 
